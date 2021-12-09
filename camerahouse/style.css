@@ -1,0 +1,388 @@
+.nav-item{
+    margin-left: 20px;
+}
+#navbarSupportedContent ul li a{
+    color: black;
+    font-family: 'Readex Pro', sans-serif;
+}
+#navbarSupportedContent ul li a:hover{
+    text-decoration: underline;
+}
+
+
+/* sub-menu start */
+.sub-menu{
+    background-color: #F9EBEA;
+}
+.btn-group{
+    margin-left: 150px;
+ 
+}
+.btn-group .dropdown-menu li a{
+    border: transparent;
+}
+
+/* side-contacts-section-large screen only */
+
+.side-bar{
+    margin-top: 150px;
+  width: 32px;
+  clear: right;
+
+  background-attachment: fixed;
+
+}
+.side-bar a{
+    display:block ;
+    padding-top: 20px;
+    font-size: 30px;
+    
+   
+    
+     
+}
+.side-bar  title{
+    background-color: blanchedalmond;
+    color: black;
+}
+.mobile{
+    margin-top: -400px;
+
+}
+.mobile h2{
+    font-family: 'Readex Pro', sans-serif;
+    color: #00BFFF	;
+    letter-spacing: 8px;
+}
+.mobile hr{
+    color: brown;
+    font-weight: 900;
+}
+
+#containerr{
+
+    padding: 40px;
+    
+}
+#containerr .roww .element{
+    margin: auto;
+    padding: 20px;
+}
+#containerr .roww .element a{
+    text-decoration: none;
+    color: black;
+
+   
+}
+#containerr .roww .element a:hover{
+    text-decoration: underline;
+}
+#containerr .roww .element:hover{
+    background-color:white;
+   box-shadow: 1.5px 1.5px 8px 1px grey;
+   transition: 0.9s;
+   border-radius: 7px;
+
+}
+#containerr .moree .more{
+    margin-left:400px;
+    margin-top: 10px;
+}
+#containerr .more{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    border: 1px solid red;
+    width: 200px;
+    text-align: center;
+    padding: 6px 12px;
+    background-color: red;
+    border-radius: 7px;
+}
+
+.camera h2{
+    font-family: 'Readex Pro', sans-serif;
+    color: #00BFFF	;
+    letter-spacing: 8px;
+
+}
+.camera hr{
+    color: brown;
+    font-weight: 900;
+}
+#camera-containerr{
+
+    padding: 40px;
+    
+}
+#camera-containerr .roww .camera-element{
+    margin: auto;
+    padding: 20px;
+}
+#camera-containerr .roww .camera-element a{
+    text-decoration: none;
+    color: black;
+   
+}
+#camera-containerr .roww .camera-element a:hover{
+    text-decoration: underline;
+}
+#camera-containerr .roww .camera-element:hover{
+    background-color:white;
+   box-shadow: 1.5px 1.5px 8px 1px grey;
+   transition: 0.9s;
+   border-radius: 7px;
+
+}
+#camera-containerr .moree .more{
+    margin-left:400px;
+    margin-top: 10px;
+}
+#camera-containerr .more{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    border: 1px solid red;
+    width: 200px;
+    text-align: center;
+    padding: 6px 12px;
+    background-color: red;
+    border-radius: 7px;
+}
+
+/* mobile-accessories */
+.container-ac-mobile h2{
+    font-family: 'Readex Pro', sans-serif;
+    color: #00BFFF	;
+    letter-spacing: 4px;
+
+}
+.container-ac-mobile hr{
+    color: brown;
+    font-weight: 900;
+}
+
+
+#mobile-accessories .roww  .mobile-ac-element{
+    margin: auto;
+    padding: 20px;
+}
+#mobile-accessories .roww .mobile-ac-element a{
+    text-decoration: none;
+    color: black;
+   
+}
+#mobile-accessories .roww .mobile-ac-element a:hover{
+    text-decoration: underline;
+}
+#mobile-accessories .roww .mobile-ac-element:hover{
+    background-color:white;
+   box-shadow: 1.5px 1.5px 8px 1px grey;
+   transition: 0.9s;
+   border-radius: 7px;
+
+}
+
+#mobile-accessories .moree .more{
+    margin-left:400px;
+    margin-top: 10px;
+}
+#mobile-accessories .more{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    border: 1px solid red;
+    width: 200px;
+    text-align: center;
+    padding: 6px 12px;
+    background-color: red;
+    border-radius: 7px;
+    margin-top: 25px;
+    
+}
+
+/* camera-accessories */
+.container-ac-camera h2{
+    font-family: 'Readex Pro', sans-serif;
+    color: #00BFFF	;
+    letter-spacing: 4px;
+    margin-top: 50px;
+
+}
+.container-ac-camera hr{
+    color: brown;
+    font-weight: 900;
+}
+
+
+#camera-accessories .roww  .camera-ac-element{
+    margin: auto;
+    padding: 20px;
+}
+#camera-accessories .roww .camera-ac-element a{
+    text-decoration: none;
+    color: black;
+   
+}
+#camera-accessories .roww .camera-ac-element a:hover{
+    text-decoration: underline;
+}
+#camera-accessories .roww .camera-ac-element:hover{
+    background-color:white;
+   box-shadow: 1.5px 1.5px 8px 1px grey;
+   transition: 0.9s;
+   border-radius: 7px;
+
+}
+
+#camera-accessories .moree .more{
+    margin-left:400px;
+    margin-top: 10px;
+}
+#camera-accessories .more{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    border: 1px solid red;
+    width: 200px;
+    text-align: center;
+    padding: 6px 12px;
+    background-color: red;
+    border-radius: 7px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    
+}
+
+
+
+/* footer section start */
+   .backtotop{
+       background-color: gray;
+       margin-bottom: 20px;
+       height: 30px;
+       text-align: center;
+       
+   }
+   .backtotop a{
+       display: inline-block;
+       text-decoration: none;
+       color: white;
+       text-align: center;
+       font-family: 'Readex Pro', sans-serif;
+       color: white	;
+       letter-spacing: 4px;
+     
+       
+
+   }
+   #footer{
+       background-color: black;
+       height: auto;
+       margin-top: -20px;
+       padding-left: 8px;
+       padding-bottom: 10px;
+       padding-top: 15px;
+   }
+   #footer h4{
+       color: #F2F4F4  ;
+       opacity: 0.5;
+   }
+   #footer .fott{
+       padding-top: 20px;
+   }
+   #footer a{
+       text-decoration: none;
+       color: white;
+   }
+   #footer .iconn{
+       font-size: 25px;
+   }
+   #footer a i{
+       padding: 10px 6px;
+   }
+   #footer .fot{
+       display: block;
+   } 
+   #footer .fot:hover{
+       text-decoration: underline;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* media query */
+
+@media screen and (max-width: 480px){
+    
+    .btn-group{
+        margin-left: 5px;
+    }
+}
+@media screen and (max-width: 993px){
+    .side-bar{
+        visibility: hidden;
+    }
+}
+
+@media screen and (max-width: 992px){
+    #containerr .moree .more{
+        margin-left: 200px;
+    }
+}
+@media screen and (max-width: 767px){
+#containerr .moree .more{
+    margin-left: 80px;
+}
+}
+@media screen and (max-width: 992px){
+    #camera-containerr .moree .more{
+        margin-left: 200px;
+    }
+}
+@media screen and (max-width: 767px){
+#camera-containerr .moree .more{
+    margin-left: 80px;
+    
+}
+}
+@media screen and (max-width: 992px){
+    #camera-accessories .moree .more{
+        margin-left: 200px;
+    }
+}
+@media screen and (max-width: 767px){
+    #camera-accessories .moree .more{
+    margin-left: 80px;
+}
+}
+@media screen and (max-width: 992px){
+    #mobile-accessories .moree .more{
+        margin-left: 200px;
+    }
+}
+@media screen and (max-width: 767px){
+    #mobile-accessories .moree .more{
+    margin-left: 80px;
+}
+}
+@media screen and (max-width: 575px){
+    #footer .fott{
+       text-align: center;
+    }
+}
